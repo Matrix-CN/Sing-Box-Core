@@ -1,4 +1,4 @@
-name: Build Mihomo ipk
+name: Build sing-box ipk
 
 on:
   workflow_dispatch:
